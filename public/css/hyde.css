@@ -194,9 +194,11 @@ a.sidebar-nav-item:focus {
   /*color: #c6878f;*/
   color: #3a91a5;
 }
+/*
 .theme-custom-01 .content a:visited {
   color: #22d6a6;
 }
+*/
 
 /* Green */
 .theme-custom-02 .sidebar {
@@ -207,9 +209,11 @@ a.sidebar-nav-item:focus {
   /*color: #22d6a6;*/
   color: #c6878f;
 }
+/*
 .theme-custom-02 .content a:visited {
   color: #39a0ed;
 }
+*/
 
 /* Blue */
 .theme-custom-03 .sidebar {
@@ -220,9 +224,11 @@ a.sidebar-nav-item:focus {
   /*color: #39a0ed;*/
   color: #22d6a6;
 }
+/*
 .theme-custom-03 .content a:visited {
   color: #3a91a5;
 }
+*/
 
 /* Teal */
 .theme-custom-04 .sidebar {
@@ -233,9 +239,11 @@ a.sidebar-nav-item:focus {
   /*color: #3a91a5;*/
   color: #39a0ed;
 }
+/*
 .theme-custom-04 .content a:visited {
   color: #c6878f;
 }
+*/
 
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
