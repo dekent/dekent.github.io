@@ -7,6 +7,21 @@ title: Home
 <img src="files/fetch_picture.jpg" style="width:100%; height:100%; position: absolute; left: 0; padding-bottom:25px"/>
 </div>
 
+# About
+
+## Research Interests
+
+I'm interested in any work that enables robots to learn in unstructured environments and act reasonably among humans sharing those environments.  This general interest has lead me to:
+
+- Human-Robot Interaction
+- Lifelong learning
+- Learning from Demonstration
+- Mobile Manipulation
+- Teleoperation
+- Crowdsourcing
+
+## Brief Bio
+
 I'm currently a postdoctoral researcher at the University of Pennsylvania, working with <a href="https://www.seas.upenn.edu/~eeaton/research.html">Dr. Eric Eaton</a> and the Lifelong Machine Learning research group.  I recently completed my Ph.D. in robotics at the Georgia Institute of Technology, advised by <a href="https://www.cc.gatech.edu/~chernova/">Dr. Sonia Chernova</a> in the <a href="http://rail.gatech.edu/">Robot Autonomy and Interactive Learning lab</a>.
 
 The goal of my work is to develop robotic systems that operate effectively in human environments.  This goal suggests a wide variety of challenges, including developing autonomous systems that can effectively adapt to human behavior, respond to non-expert user input, and operate in diverse, open-world environments.  I have contributed to research on <a href="https://corlconf.github.io/paper_351/">robot learning from human demonstration</a> (LfD), <a href="http://www.rail.gatech.edu/assets/files/ijrr2019-kent-saldanha-chernova.pdf">robot control interfaces</a>, <a href="https://arxiv.org/abs/2006.00037">human-centric perception</a>, collaborative manipulation, and <a href="https://arxiv.org/abs/2001.10386">robust robot autonomy</a>.
