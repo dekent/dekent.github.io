@@ -3,11 +3,11 @@ layout: default-a
 title: Home
 ---
 
+# About Me
+
 <div style="position: relative; width: 100%; padding-bottom: 81%; float: left; height: 0;">
 <img src="files/fetch_picture.jpg" style="width:100%; height:100%; position: absolute; left: 0; padding-bottom:25px"/>
 </div>
-
-# About
 
 ## Research Interests
 
