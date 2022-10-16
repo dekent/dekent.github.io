@@ -5,6 +5,8 @@ title: Publications and Code
 
 My publications are listed below, with links to the papers, citation, associated code, and videos.  Any open source code not tied to publications is listed at the bottom of this page.
 
+Note: Many of my previous publications are under a different name (my name will always be listed in bold for each publication).  While I don't use that name anymore, changing a name in publication databases, search indexing, and the published files themselves ranges from difficult to impossible.  I choose to list this name here **only** to maintain the discoverability of my work, but please refer to me as Cassie or Cassandra.
+
 * [Publications](#publications) - [\[2020\]](#2020) [\[2019\]](#2019) [\[2018\]](#2018) [\[2017\]](#2017) [\[2016\]](#2016) [\[2015\]](#2015) [\[2014\]](#2014)
 * [Code](#code)
 
