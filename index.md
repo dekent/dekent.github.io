@@ -5,8 +5,8 @@ title: Home
 
 # About Me
 
-<div style="position: relative; width: 100%; padding-bottom: 81%; float: left; height: 0;">
-<img src="files/cassie_kent_profile.jpg" style="width:50%; height:50%; position: absolute; left: 0; padding-bottom:25px"/>
+<div style="position: relative; width: 50%; padding-bottom: 81%; float: left; height: 0;">
+<img src="files/cassie_kent_profile.jpg" style="width:100%; height:100%; position: absolute; left: 0; padding-bottom:25px"/>
 </div>
 
 Hi! My name is Cassie, and I use she/her pronouns.
