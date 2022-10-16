@@ -9,7 +9,7 @@ title: Home
 <img src="files/cassie_kent_profile.jpg" style="margin-top:40px;"/>
 </div>
 
-Hi! My name is Cassie, and I use she/her pronouns.
+Hi! My name is Cassie, and I use [she/her](https://pronouns.org/she-her) pronouns.
 
 
 ## Research Interests
