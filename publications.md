@@ -20,7 +20,7 @@ Note: Many of my previous publications may be listed under a different first/giv
 ### 2021
 * **Cassandra Kent**. Robot Manipulation Alongside and in Collaboration with People. *Doctoral Dissertation, Georgia Institute of Technology*, 2021. [\[official document\]](https://smartech.gatech.edu/bitstream/handle/1853/66419/KENT-DISSERTATION-2021.pdf?sequence=1)
 
-* Russell Toris, Sarah Elliott, and **Cassandra Kent**. Method and System for Selecting a Preferred Robotic Grasp of an Object-of-Interest Using Pairwise Ranking. *US Patent 10,899,011*, 2021. [\[official document\]](https://patentimages.storage.googleapis.com/4e/46/14/3dbaedc57299a5/US10899011.pdf)
+* Russell Toris, Sarah Elliott, and **Cassandra Kent**. Method and System for Selecting a Preferred Robotic Grasp of an Object-of-Interest Using Pairwise Ranking. *US Patent 10,899,011*. 2021. [\[official document\]](https://patentimages.storage.googleapis.com/4e/46/14/3dbaedc57299a5/US10899011.pdf)
 
 ### 2020
 * Kevin Chen, Nithin Shrivatsav, **Cassandra Kent**, Harish Ravichandar, and Sonia Chernova. Learning Hierarchical Task Networks with Preferences from Unannotated Demonstrations. *Conference on Robot Learning (CoRL)*, 2020. [\[official proceedings\]](https://corlconf.github.io/paper_351/) [\[code\]](https://github.com/GT-RAIL/circuit_htn)
